@@ -1,0 +1,7 @@
+,bac_subNet.sub_networkParameters.sample,bac_subNet.sub_networkParameters.node_number,bac_subNet.sub_networkParameters.network_edge_number,bac_subNet.sub_networkParameter.network_Averagedegree,bac_subNet.sub_networkParameter.network_connectance
+1,aCO2-1,178,120,1.348314607,0.007617597
+2,aCO2-2,170,118,1.388235294,0.00821441
+3,aCO2-3,178,115,1.292134831,0.007300197
+4,aCO2-4,167,110,1.317365269,0.007935935
+5,aCO2-5,175,118,1.348571429,0.007750411
+6,aCO2-6,174,118,1.356321839,0.007840011
